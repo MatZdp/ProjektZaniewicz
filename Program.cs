@@ -12,7 +12,17 @@ namespace ConsoleApp3
         {
 
             Console.WriteLine("Jebać Świnie");
+
+
+            Console.WriteLine("EMTI PRICK");
+
+
+
+
+
             Console.ReadKey();
+
+
         }
     }
 }
