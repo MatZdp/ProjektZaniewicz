@@ -17,7 +17,7 @@ namespace ConsoleApp3
             Console.WriteLine("EMTI PRICK");
 
 
-
+            Console.WriteLine("Gówno pizda ");
 
 
             Console.ReadKey();
